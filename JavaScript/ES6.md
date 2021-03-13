@@ -106,14 +106,14 @@ for (const n of fibonacci) {
 - 구조 분해 할당
 - yield* 표현식
 
-> **`yield*` 키워드**
-> yield* 뒤에 iterable한 객체를 붙일 수 있다.
-> 이렇게 되면 yield가 수행될 때 iterable 객체를 순회하게 된다.
+> **`yield*` 키워드** <br>
+> yield* 뒤에 iterable한 객체를 붙일 수 있다. <br>
+> 이렇게 되면 yield가 수행될 때 iterable 객체를 순회하게 된다. <br>
 > 예시 -> `yield* [1, 2, 3]`
 
 #### iterator 참고
-[JavaScript와 iterator](https://pks2974.medium.com/javascript%EC%99%80-iterator-cdee90b11c0f)
-[iterable](https://helloworldjavascript.net/pages/260-iteration.html)
+- [JavaScript와 iterator](https://pks2974.medium.com/javascript%EC%99%80-iterator-cdee90b11c0f)
+- [iterable](https://helloworldjavascript.net/pages/260-iteration.html)
 
 
 ## Generator
@@ -125,9 +125,9 @@ Generator는 반복자를 쉽게 생성해주는 것으로 function*과 yield를
 - generator 함수를 실행하면 iterator가 반환되는데, iterator는 next()라는 메서드를 갖는다. next() 메서드를 실행하면 generator 함수 내부에서 가장 먼저 등장하는 yield에서 함수의 실행을 멈춘다.
 
 #### Generator 참고
-[Generator](https://jaeyeophan.github.io/2017/04/22/ES6-10-Generator/)
-[JavaScript Generator 이해하기](https://wonism.github.io/javascript-generator/)
-[poiemaweb - 제너레이터와 async/awit](https://poiemaweb.com/es6-generator)
+- [Generator](https://jaeyeophan.github.io/2017/04/22/ES6-10-Generator/)
+- [JavaScript Generator 이해하기](https://wonism.github.io/javascript-generator/)
+- [poiemaweb - 제너레이터와 async/awit](https://poiemaweb.com/es6-generator)
 
 
 ## Symbol
