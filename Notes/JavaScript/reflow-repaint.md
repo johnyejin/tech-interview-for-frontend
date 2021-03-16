@@ -2,6 +2,7 @@
 - `reflow` : 생성된 DOM 노드의 레이아웃 수치(너비, 높이, 위치 등) 변경 시 영향 받은 모든 노드의 수치를 다시 계산하여 렌더 트리를 재생성하는 과정
 - `repaint` : reflow 과정이 끝난 후 재생성된 렌더 트리를 다시 그리는 과정
 
+<br>
 
 ## Reflow 발생
 
@@ -12,6 +13,7 @@
 - Layout(Reflow 과정 수행)
 - Paint(Repaint 과정 수행)
 
+<br>
 
 ## Repaint 발생
 
@@ -25,6 +27,7 @@ Reflow 발생 이유와 같이 스타일의 모든 변경이 레이아웃 수치
 - Recalcurate(변경된 스타일 수치 계산 수행)
 - Paint(Repaint 과정 수행)
 
+<br>
 
 ## **Reflow 과정이 일어나는 상황**
 
@@ -35,6 +38,7 @@ Reflow 발생 이유와 같이 스타일의 모든 변경이 레이아웃 수치
 - 페이지 초기 랜더링 시 (최초 Layout 과정)
 - 윈도우 리사이징 시
 
+<br>
 
 ## Reflow 최적화 방법
 
@@ -82,6 +86,7 @@ Reflow 발생 이유와 같이 스타일의 모든 변경이 레이아웃 수치
   }
   ```
 
+<br>
 
 ## 참고
 - [[CSS] Reflow 원인과 마크업 최적화 Tip](https://zinee-world.tistory.com/295)

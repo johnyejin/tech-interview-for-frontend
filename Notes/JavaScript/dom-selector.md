@@ -9,8 +9,12 @@
 
 `getElementByClassName`, `getElementByName`, `getElementByTagName` 메서드는 '살아있는 컬렉션'을 반환한다. 즉, 문서에 변경이 있을 때마다 컬렉션이 자동으로 갱신되어 최신 상태를 유지한다.
 
+<br>
+
 ## getElementBy* vs querySelector 속도 차이
 getElementBy*이 querySelector보다 처리속도가 더 빠르다.
+
+<br>
 
 ## 참고
 - [getElement*, querySelector*로 요소 검색하기](https://ko.javascript.info/searching-elements-dom)

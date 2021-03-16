@@ -14,6 +14,7 @@
 - 템플릿 리터럴
 - 비구조화
 
+<br>
 
 ## let vs const
 #### 공통점
@@ -25,12 +26,14 @@
 - let은 재할당이 자유로우나, const는 재할당이 금지된다.
 - const는 선언과 동시에 할당이 이루어져야 한다.
 
+<br>
 
 ## 화살표 함수
 - 일반 함수와 달리 this가 함수 스코프에 바인딩되지 않고 렉시컬 스코프를 가진다. 즉, 자신을 감싸는 코드와 동일한 this를 공유한다.
 - 화살표 함수 표현식은 기존의 function 표현 방식보다 간결하게 함수를 표현할 수 있다.
 - 화살표 함수는 항상 익명이며, 자신의 `this`, `argument`, `super`, `new.target`을 바인딩하지 않기 때문에 생성자로는 사용할 수 없다.
 
+<br>
 
 ## 클래스
 프로토타입 기반의 객체지향 패턴을 쉽게 만든 장치로, 상속과 생성자 및 인스턴스와 정적 메서드를 지원한다.
@@ -47,6 +50,7 @@
 #### Class 참고
 [정적 메서드와 정적 프로퍼티](https://ko.javascript.info/static-properties-methods)
 
+<br>
 
 ## 기본값 할당하기 + Rest 문법 + Spread 문법
 ### 기본값
@@ -66,6 +70,7 @@ f(3, "hello", true) == 2
 ### Spread 문법
 Spread 문법은 배열을 반대로 펼치는 역할이다.
 
+<br>
 
 ## 반복자(iterator) + for...of
 반복자는 자신만의 반복을 정의하는 규약이고 이는 `for...of`를 통해 순회할 수 있다. `[Symbor.iterator]`라는 이름의 메서드를 정의해야하며 그 메서드는 반드시 `next()` 메서드를 가진 객체를 반환해야 한다.
@@ -115,6 +120,7 @@ for (const n of fibonacci) {
 - [JavaScript와 iterator](https://pks2974.medium.com/javascript%EC%99%80-iterator-cdee90b11c0f)
 - [iterable](https://helloworldjavascript.net/pages/260-iteration.html)
 
+<br>
 
 ## Generator
 Generator는 반복자를 쉽게 생성해주는 것으로 function*과 yield를 사용한다. 반복자의 하위 타입으로 next와 throw를 포함한다.
@@ -129,6 +135,7 @@ Generator는 반복자를 쉽게 생성해주는 것으로 function*과 yield를
 - [JavaScript Generator 이해하기](https://wonism.github.io/javascript-generator/)
 - [poiemaweb - 제너레이터와 async/awit](https://poiemaweb.com/es6-generator)
 
+<br>
 
 ## Symbol
 Symbol은 ES6에서 추가된 유일하고 변경 불가능한 원시 타입으로 객체의 접근제어를 가능하게 한다. `description` 매개변수를 이용해 디버깅이 가능하며 `Object.getOwnPropertySymbols` 를 통해 객체의 심볼 프로퍼티들을 볼 수 있다.
@@ -158,9 +165,12 @@ var c = new MyClass("hello");
 c["key"] === undefined
 ```
 
+<br>
+
 ## Map + Set + WeakMap + WeakSet
 Weak가 붙은 것은 가비지 컬렉션을 허용하며, size 프로퍼티를 가지지 않는다.
 
+<br>
 
 ## Number + String + Array + Object 에 추가된 것들
 ```js
@@ -183,6 +193,7 @@ Array.of(1, 2, 3) // [1,2,3]
 Object.assign(Point, { origin: new Point(0,0) }) // 얕은 복사
 ```
 
+<br>
 
 ## 모듈(Module)
 - export로 모듈 내보내기
@@ -207,6 +218,7 @@ import {sum, pi} from "lib/math";
 alert("2π = " + sum(pi, pi));
 ```
 
+<br>
 
 ## 참고
 [ES6의 특징들](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/es6.md)
