@@ -11,9 +11,9 @@
 <br>
 
 ## CSR (Client Side Rendering)
-![CSR](https://user-images.githubusercontent.com/26537048/111436328-31077e80-8745-11eb-804e-52be17d6013f.png)
-
 CSR은 최초 한 번 페이지 전체를 로딩한 이후부터는 데이터만 변경하여 사용하는 방식이다. 서버는 단지 JSON 파일만 보내주는 역할을 하고, HTML을 그리는 역할은 클라이언트 측에서 자바스크립트가 수행하는 것이다.
+
+![CSR](https://user-images.githubusercontent.com/26537048/111436328-31077e80-8745-11eb-804e-52be17d6013f.png)
 
 ### 👍 장점
 - 첫 로딩만 기다리면, 동적으로 빠르게 렌더링되기 때문에 사용자 경험(UX)가 좋아진다.
@@ -28,9 +28,9 @@ CSR은 최초 한 번 페이지 전체를 로딩한 이후부터는 데이터만
 <br>
 
 ## SSR (Server Side Rendering)
-![SSR](https://user-images.githubusercontent.com/26537048/111436424-4f6d7a00-8745-11eb-80c2-87347e57922d.png)
-
 브라우저가 페이지를 요청할 때마다 해당 페이지에 관련된 HTML, CSS, JavaScript 파일 및 데이터를 받아와 렌더링하는 방식이다.
+
+![SSR](https://user-images.githubusercontent.com/26537048/111436424-4f6d7a00-8745-11eb-80c2-87347e57922d.png)
 
 ### 👍 장점
 - 자바스크립트를 이용한 렌더링이 아니기 때문에 검색엔진 최적화가 가능하다.
