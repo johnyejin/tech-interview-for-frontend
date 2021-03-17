@@ -41,4 +41,4 @@ removeEventListener로 이미 등록한 이벤트 리스너 중 동일한 인자
 <br>
 
 ## 참고
-- [이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
+- [joshua | 이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)

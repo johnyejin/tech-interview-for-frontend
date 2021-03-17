@@ -51,5 +51,5 @@ function 키워드 앞에 `async`를 붙여주고 function 내부의 promise를 
 <br>
 
 ## 참고
-- [비동기 처리 과정 - 이벤트 루프](https://velog.io/@thms200/Event-Loop-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
-- [비동기 에러 처리](https://rinae.dev/posts/how-to-handle-errors-1)
+- [velog | 비동기 처리 과정 - 이벤트 루프](https://velog.io/@thms200/Event-Loop-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
+- [Blog | 비동기 에러 처리](https://rinae.dev/posts/how-to-handle-errors-1)

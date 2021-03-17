@@ -71,5 +71,5 @@ import { B } from 'moduleB';
 <br>
 
 ## 참고
-- [📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System#-es6-modulesesm)
-- [모듈 시스템: CommonJS, AMD, UMD, ES6](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/module.md)
+- [velog | 📦 JavaScript Module System](https://velog.io/@doondoony/JavaScript-Module-System#-es6-modulesesm)
+- [github | 모듈 시스템: CommonJS, AMD, UMD, ES6](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/module.md)

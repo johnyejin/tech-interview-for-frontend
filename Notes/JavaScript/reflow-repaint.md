@@ -89,5 +89,5 @@ Reflow 발생 이유와 같이 스타일의 모든 변경이 레이아웃 수치
 <br>
 
 ## 참고
-- [[CSS] Reflow 원인과 마크업 최적화 Tip](https://zinee-world.tistory.com/295)
-- [Reflow or Repaint(or ReDraw)과정 설명 및 최적화 방법](https://webclub.tistory.com/346)
+- [blog | Reflow 원인과 마크업 최적화 Tip](https://zinee-world.tistory.com/295)
+- [blog | Reflow or Repaint(or ReDraw)과정 설명 및 최적화 방법](https://webclub.tistory.com/346)

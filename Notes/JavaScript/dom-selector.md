@@ -17,4 +17,4 @@ getElementBy*이 querySelector보다 처리속도가 더 빠르다.
 <br>
 
 ## 참고
-- [getElement*, querySelector*로 요소 검색하기](https://ko.javascript.info/searching-elements-dom)
+- [javascript.info | getElement*, querySelector*로 요소 검색하기](https://ko.javascript.info/searching-elements-dom)

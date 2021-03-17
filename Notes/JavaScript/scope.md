@@ -38,4 +38,4 @@ bar(); // 1
 <br>
 
 ## 참고
-[스코프](https://poiemaweb.com/js-scope)
+[poiemaweb | 스코프](https://poiemaweb.com/js-scope)

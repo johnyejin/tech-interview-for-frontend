@@ -48,7 +48,7 @@
 - 정적 프로퍼티 역시 개별 인스턴스에 묶이지 않는다.
 
 #### Class 참고
-[정적 메서드와 정적 프로퍼티](https://ko.javascript.info/static-properties-methods)
+[javascript.info | 정적 메서드와 정적 프로퍼티](https://ko.javascript.info/static-properties-methods)
 
 <br>
 
@@ -117,8 +117,8 @@ for (const n of fibonacci) {
 > 예시 -> `yield* [1, 2, 3]`
 
 #### iterator 참고
-- [JavaScript와 iterator](https://pks2974.medium.com/javascript%EC%99%80-iterator-cdee90b11c0f)
-- [iterable](https://helloworldjavascript.net/pages/260-iteration.html)
+- [medium | JavaScript와 iterator](https://pks2974.medium.com/javascript%EC%99%80-iterator-cdee90b11c0f)
+- [blog | iterable](https://helloworldjavascript.net/pages/260-iteration.html)
 
 <br>
 
@@ -131,9 +131,9 @@ Generator는 반복자를 쉽게 생성해주는 것으로 function*과 yield를
 - generator 함수를 실행하면 iterator가 반환되는데, iterator는 next()라는 메서드를 갖는다. next() 메서드를 실행하면 generator 함수 내부에서 가장 먼저 등장하는 yield에서 함수의 실행을 멈춘다.
 
 #### Generator 참고
-- [Generator](https://jaeyeophan.github.io/2017/04/22/ES6-10-Generator/)
-- [JavaScript Generator 이해하기](https://wonism.github.io/javascript-generator/)
-- [poiemaweb - 제너레이터와 async/awit](https://poiemaweb.com/es6-generator)
+- [poiemaweb | 제너레이터와 async/awit](https://poiemaweb.com/es6-generator)
+- [blog | Generator](https://jaeyeophan.github.io/2017/04/22/ES6-10-Generator/)
+- [blog | JavaScript Generator 이해하기](https://wonism.github.io/javascript-generator/)
 
 <br>
 
@@ -221,4 +221,4 @@ alert("2π = " + sum(pi, pi));
 <br>
 
 ## 참고
-[ES6의 특징들](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/es6.md)
+[github | ES6의 특징들](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/es6.md)

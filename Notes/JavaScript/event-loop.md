@@ -40,5 +40,5 @@
 <br>
 
 ## 참고
-- [what the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [이벤트 루프 동작 예시](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/event-loop.md)
+- [youtube | what the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [github | 이벤트 루프 동작 예시](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/event-loop.md)

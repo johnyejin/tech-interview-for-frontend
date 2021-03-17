@@ -33,3 +33,8 @@
    - 선언 시점의 LexicalEnvironment의 스냅샷으로, 변경 사항은 반영되지 않음
 2. LexicalEnvironment : 처음에는 VariableEnvironment와 같지만, 변경 사항이 실시간으로 반영됨
 3. ThisBinding : this 식별자가 바라봐야 할 대상 객체
+
+<br>
+
+## 참고
+- 코어 자바스크립트 (책)

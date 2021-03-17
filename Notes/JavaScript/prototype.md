@@ -16,5 +16,5 @@ prototype은 효과적으로 동작한다. 생성자를 통해 생성된 객체(
 <br>
 
 ## 참고
-- 코어 자바스크립트(책)
-- [프로토타입](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/prototype.md)
+- 코어 자바스크립트 (책)
+- [github | 프로토타입](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/javascript/prototype.md)
