@@ -62,6 +62,12 @@
 <br>
 
 ## 📃 HTML
+- [`data-` 속성](Notes/HTML/data.md)
+- [DOCTYPE](Notes/HTML/doctype.md)
+- [표준 모드와 호환 모드](Notes/HTML/standard-quirks-mode.md)
+- [script 태그의 위치](Notes/HTML/script-tag-position.md)
+- [script, script async, script defer](Notes/HTML/script.md)
+- [시맨틱 마크업](Notes/HTML/semantic-markup.md)
 
 <br>
 
