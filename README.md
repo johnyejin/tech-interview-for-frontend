@@ -63,6 +63,8 @@
 <br>
 
 ## 🍒 TypeScript
+- [TypeScript에 대해](Notes/TypeScript/typescript.md)
+- [type vs interface](Notes/TypeScript/type-interface.md)
 
 <br>
 
