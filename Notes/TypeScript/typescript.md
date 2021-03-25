@@ -53,3 +53,4 @@ total.toLocaleString();
 
 ## 참고
 - [캡틴판교 | 타입스크립트 핸드북 - Why typescript?](https://joshua1988.github.io/ts/why-ts.html#%EC%99%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%8D%A8%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94)
+- [달달한 제안, TypeScript](https://jbee.io/typescript/you_might_need_typescript/)
