@@ -79,6 +79,13 @@
 <br>
 
 ## 🎨 CSS
+- [CSS 애니메이션 vs JS 애니메이션](Notes/CSS/animation.md)
+- [block vs inline vs inline-block](Notes/CSS/block-inline.md)
+- [box-model](Notes/CSS/box-model.md)
+- [그리드 시스템 - float, flexbox, grid](Notes/CSS/grid-system.md)
+- [height 속성](Notes/CSS/height.md)
+- [CSS 선택자](Notes/CSS/selector.md)
+- [스타일링 방법 - CSS 전처리기, styled-components](Notes/CSS/styling.md)
 
 <br>
 
