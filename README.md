@@ -27,7 +27,7 @@
 ## 💻 프론트엔드 전반
 - [BOM과 DOM](Notes/FrontEnd/bom-dom.md)
 - [브라우저 렌더링](Notes/FrontEnd/browser-rendering.md)
-- [브라우저 저장소 - 쿠키, localStorage, sessionStorage](Notes/FrontEnd/browser-storage.md)
+- [브라우저 저장소 - Cookie, localStorage, sessionStorage](Notes/FrontEnd/browser-storage.md)
 - [CI와 CD](Notes/FrontEnd/ci-cd.md)
 - [CSR과 SSR](Notes/FrontEnd/csr-ssr.md)
 - [url을 입력하면 벌어지는 일](Notes/FrontEnd/enter-url-process.md)
@@ -102,5 +102,9 @@
 <br>
 
 ## 📈 네트워크
+- [CORS](Notes/Network/cors.md)
+- [HTTP](Notes/Network/http.md)
+- [HTTP vs HTTPS](Notes/Network/http-https.md)
+- [REST API](Notes/Network/rest-api.md)
 
 <br>
