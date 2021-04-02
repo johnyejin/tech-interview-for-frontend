@@ -1,7 +1,6 @@
 # 🎓 취준생이라면 반드시 알아야 하는 프론트엔드 지식들
 ## 목차
 - [소개](#-소개)
-- [개발 상식](#-개발-상식)
 - [프론트엔드 전반](#-프론트엔드-전반)
 - [JavaScript](#-javascript)
 - [TypeScript](#-typescript)
@@ -18,9 +17,6 @@
 
 > ⭐ 내용에 오류가 있다면 Pull Request를 통해서 알려주시면 감사하겠습니다.
 
-<br>
-
-## 💡 개발 상식
 
 <br>
 
@@ -98,6 +94,10 @@
 <br>
 
 ## 🛠 백엔드 전반
+- [쿠키와 세션](Notes/BackEnd/cookie-session.md)
+- [JWT](Notes/BackEnd/jwt.md)
+- [OAuth](Notes/BackEnd/oauth.md)
+- [GraphQL, Apollo, Prisma 소개](Notes/BackEnd/graphql-apollo-prisma.md)
 
 <br>
 
