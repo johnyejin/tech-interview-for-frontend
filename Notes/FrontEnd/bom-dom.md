@@ -21,8 +21,8 @@
 
 DOM 트리 구조에서 주로 쓰이는 노드 4종류이다.
 
-| | |
-| --- | --- |
+| Node | Description |
+| --- | :--- |
 | Document Node | 트리의 최상위에 존재하며 각각의 하위요소들(element, attribute, text 노드)에 접근하려면 문서노드를 통해야 한다. 즉, 시작점이다. |
 | Element Node | 쉽게 말해 태그이다. `<p>`, `<span>`, `<div>` 등 |
 | Attribute Node | `<input>` 태그 안에는 name, value 등의 속성을 사용할 수 있는데, 이러한 속성들을 가리키는 노드이다. |
