@@ -73,4 +73,4 @@ REST API는 정해진 명확한 표준이 없기 때문에 REST API를 사용함
 
 ## 참고
 - [REST API 제대로 알고 사용하기 | NHN Cloud Meetup](https://meetup.toast.com/posts/92)
-- [REST API | Github]](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/rest-api.md)
+- [REST API | Github](https://github.com/baeharam/Must-Know-About-Frontend/blob/master/Notes/network/rest-api.md)
